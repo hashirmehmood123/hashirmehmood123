@@ -81,9 +81,9 @@ My experience includes Flutter and Dart for cross-platform development, Java and
 
 ## Education
 
-### Bachelor of Science in Computer Science (BSCS)
+### Bachelor of Science in Computer Science (BSCS) — In Progress
 
-Completed at the National University of Sciences and Technology (NUST), Islamabad.
+Currently pursuing this degree at the National University of Sciences and Technology (NUST), Islamabad.
 
 ### F.Sc.
 

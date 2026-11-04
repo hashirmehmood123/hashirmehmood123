@@ -1,33 +1,32 @@
 # Hashir Mehmood
 
-## Mobile Application Developer
+## Mobile Application Developer | Flutter & Native Android
 
-I’m a Mobile Application Developer based in Islamabad, Pakistan, with 2+ years of hands-on experience building applications from initial planning and design through implementation.
+I build mobile applications from the first idea through implementation. Over the past 2+ years, I have worked on cross-platform applications, native Android development, API integration, smartwatch-related applications, management systems, and document-focused solutions.
 
-My work includes cross-platform and native Android development, API integration, application design, smartwatch-related applications, management systems, and document-focused solutions. I focus on delivering complete, practical applications that match the needs of each project.
+I enjoy turning a requirement into a clear application flow, a usable interface, and a complete working solution. I’m based in Islamabad, Pakistan, and I’m open to working with software teams, international clients, and freelance clients.
 
 ## About Me
 
 - 2+ years of hands-on application development experience
-- Cross-platform and native Android development experience
-- Comfortable working from planning and design through implementation
-- Experience with basic applications through more complex application solutions
-- Interested in building reliable products for software teams, international clients, and freelance projects
+- Experience with both cross-platform and native Android development
+- Comfortable taking an application from planning and interface design to implementation
+- Used to working across different platforms when project requirements call for it
+- Focused on practical, maintainable application experiences
 
-## What I Do
+## What I Develop
 
-- Design and develop mobile applications
-- Build cross-platform applications with Flutter and Dart
-- Develop native Android applications with Java and Kotlin
-- Integrate APIs into application workflows
-- Develop management-system-type applications with structured workflows
-- Build document-focused applications
-- Work on smartwatch-related applications
-- Adapt development approaches to project requirements
+- Cross-platform mobile applications with Flutter and Dart
+- Native Android applications with Java and Kotlin
+- API-connected application workflows
+- Management-system-style applications with structured flows
+- Document-focused applications, including Document Hub
+- Medium-level smartwatch-related applications
+- Websites and application interfaces where the project requires them
 
 ## Technical Skills
 
-### Mobile Application Development
+### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -44,36 +43,33 @@ My work includes cross-platform and native Android development, API integration,
 - Application design and implementation
 - Basic to complex application development
 
-### Web Development
+### Web & Design
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - Website development
-
-### Design
-
-- Application design
+- Application UI design
 - Graphic designing
 
 ## Featured Projects
 
 ### Document Hub
 
-A document-focused application developed as one of my key application development projects.
+Document Hub is a document-focused application I developed as part of my application work. Its purpose is to provide a focused place for document-related workflows. The accessible workspace does not contain the project source or screenshots, so I have kept the public description accurate and deliberately avoided claiming unverified features or technologies.
 
 ### Smartwatch Applications
 
-Medium-level smartwatch-related application work focused on mobile application development and connected functionality.
+I have worked on medium-level smartwatch-related applications, combining mobile application development with the supporting functionality required by the smartwatch use case. Further implementation details are not published because the underlying project files were not available for public verification.
 
 ### Management Systems
 
-Management-system-type applications built around structured workflows and complete application development delivery.
-
-> Project descriptions are intentionally kept at the level of verified information currently available. Additional implementation details can be added when the relevant project code or documentation is available for review.
+I have developed management-system-type applications built around structured workflows. This work has involved understanding requirements, shaping application flows, designing interfaces, and implementing complete application solutions without overstating features that are not publicly documented.
 
 ## Development Experience
 
-I work across the full application development process, including planning, design, implementation, API integration, and refinement. My experience spans different development platforms and project types, allowing me to select an appropriate approach for the requirements of each application.
+My development process starts with understanding what the application needs to accomplish. From there, I plan the main flows, shape the interface, implement the features, connect APIs where required, and refine the result into a usable application.
+
+My experience includes Flutter and Dart for cross-platform development, Java and Kotlin for native Android work, API integration, application design, and development across different platforms depending on the project requirements.
 
 ## Education
 
@@ -85,9 +81,10 @@ Currently pursuing. University name and expected graduation year have not been p
 
 IMCB, Islamabad
 
-## Contact
+## Contact Information
 
 - Email: [hahsir786pc@gmail.com](mailto:hahsir786pc@gmail.com)
+- WhatsApp: [+92 346 4368074](https://wa.me/923464368074)
 - Location: Islamabad, Pakistan
 
-Open to professional conversations about mobile application development, cross-platform applications, native Android development, API integration, and application-focused freelance work.
+I’m open to conversations about mobile application development, cross-platform applications, native Android development, API integration, and application-focused freelance work.

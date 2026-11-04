@@ -55,7 +55,15 @@ I enjoy turning a requirement into a clear application flow, a usable interface,
 
 ### Document Hub
 
-Document Hub is a document-focused application I developed as part of my application work. Its purpose is to provide a focused place for document-related workflows. The accessible workspace does not contain the project source or screenshots, so I have kept the public description accurate and deliberately avoided claiming unverified features or technologies.
+Document Hub is a mobile application developed by me, focused on providing users with an organized document management experience. I worked on its application development, interface implementation, and overall functionality, bringing the complete application together into a cohesive mobile solution.
+
+![Document Hub - Application Showcase](assets/document-hub-showcase.png)
+
+### Expense Tracker — Finora
+
+Finora is a mobile application I developed to provide a structured way to manage personal finances and track expenses. The project demonstrates my experience in application development, interface implementation, and building a complete mobile application around a practical everyday use case.
+
+![Expense Tracker - Application Showcase](assets/expense-tracker-showcase.png)
 
 ### Smartwatch Applications
 
